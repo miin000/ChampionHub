@@ -2,9 +2,13 @@
 
 # Technologies
 ## Laravel framework
-MVC
-MySQL/SQL/postgresSQL/no-sql Database (Firebase, Mongo DB)
-Programming Language
+### MVC
+
+### MySQL/SQL/postgresSQL/no-sql Database (Firebase, Mongo DB)
+
+### Programming Language
+
+
 
 ## PHP (OOP)
 
