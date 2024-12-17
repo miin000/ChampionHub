@@ -22,9 +22,8 @@ Join FlashNoter today and transform the way you learn and stay organized!
 
 # Install
 """
-"""
 composer create-project --prefer-dist laravel/laravel championHubWebApp
 
 php artisan serve
-
+"""
 # Deployment
