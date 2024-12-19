@@ -4,7 +4,7 @@
 
 ## Laravel framework
 ### Laravel basic
-1. Routing trong Laravel
+#### 1. Routing trong Laravel
 Routing là gì?
 Routing là quá trình khớp yêu cầu (request) đến một đoạn mã cụ thể trong ứng dụng. Laravel cung cấp một hệ thống routing đơn giản và mạnh mẽ, cho phép bạn xác định cách ứng dụng phản hồi các yêu cầu khác nhau.
 
