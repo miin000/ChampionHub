@@ -148,5 +148,5 @@ $age = 19;
     greet("Minh");
 ?>
 
-Out put--> Hello, Minh
+Output--> Hello, Minh
 ```
